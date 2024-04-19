@@ -1,4 +1,4 @@
-# SpringBoot with Basic Authentication
+# Spring-Boot with Basic Authentication
 
 This repository contains a sample Spring Boot application demonstrating how to implement basic authentication (
 username/password) for securing REST APIs. Basic authentication is a simple yet effective method for authenticating
